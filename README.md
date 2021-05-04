@@ -1,8 +1,8 @@
 # WARNING
 
-This is a fork of https://github.com/ansible-collections/servicenow.itsm. You probably want that instead.
+This is a fork of [servicenow.itsm](https://github.com/ansible-collections/servicenow.itsm). You probably want that instead.
 
-This fork collection exists to make the changes in https://github.com/ansible-collections/servicenow.itsm/pull/64 usable via Ansible Galaxy prior to merge and release. It is therefore capable of performing OAuth logins via Refresh Token.
+This fork collection exists to make the changes in [servicenow.itsm #64](https://github.com/ansible-collections/servicenow.itsm/pull/64) usable via Ansible Galaxy prior to merge and release. It is therefore capable of performing OAuth logins via Refresh Token.
 
 Below this message is original contents of this README.
 
