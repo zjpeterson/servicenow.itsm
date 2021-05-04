@@ -1,3 +1,11 @@
+# WARNING
+
+This is a fork of https://github.com/ansible-collections/servicenow.itsm. You probably want that instead.
+
+This fork collection exists to make the changes in https://github.com/ansible-collections/servicenow.itsm/pull/64 usable via Ansible Galaxy prior to merge and release. It is therefore capable of performing OAuth logins via Refresh Token.
+
+Below this message is original contents of this README.
+
 #  Ansible Collection for ServiceNow ITSM
 
 The Ansible Collection for ServiceNow IT Service Management ([ITSM](https://www.servicenow.com/products/itsm.html)) includes a variety of Ansible content to help automate the management of ServiceNow IT Service Management.
